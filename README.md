@@ -25,6 +25,11 @@ https://github.com/thomascostta/rent-your-car-app/assets/82541529/1035fd78-1d7d-
 - [x] Offline first
 - [x] Nodejs as backend
 
+## Status do projeto
+- [x] Android ok
+- [ ] IOS*** 
+
+*** Pelo aplicativo explorar algumas funcionalidades nativas, preciso de um MacBook para finalizar a configuração do WatermelonDB para IOS.
 
 ## Executando o projeto :toolbox:
 
