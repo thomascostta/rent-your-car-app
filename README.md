@@ -7,7 +7,7 @@
 
 O RentX é um app para fazer agendamentos de carros com uma interface otimista. 
 
-
+https://github.com/thomascostta/rent-your-car-app/assets/82541529/1035fd78-1d7d-4e67-81c9-05586da80a90
 
 ## ✨ Tecnologias
 
